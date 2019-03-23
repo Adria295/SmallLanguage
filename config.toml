@@ -55,7 +55,7 @@ googleAnalytics = ""
 
 	# Service section
 	[params.services]
-		headline = "软件服务"
+		headline = "软件特色"
         # icon url:https://fontawesome.com/v4.7.0/icons/
 
         [[params.services.list]]
