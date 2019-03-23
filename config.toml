@@ -42,14 +42,16 @@ googleAnalytics = ""
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "Miles"
-		subtitle   = "[Miles](//google.com) &nbsp;针对当前小语种学习者易因缺乏持久学习动力与兴趣，为小语种学习者提供了一个定制化的学习交流交友平台，通过学习的自我监督和他人监督、学习分享、学习问答等功能，融入游戏化概念、时间管理理念，利用从众效应和社会助长效应,从而激发小语种用户的学习兴趣。"
+		subtitle   = """[Miles](//google.com) &nbsp;是一款致力于解决当前小语种学习者易因缺乏持久学习动力与兴趣，专为小语种学习者设计了
+		一个定制化的学习交流交友平台，融合了时间管理、游戏化理念与社会助长效应的app。"""
 		buttonText = "了解更多"
 
 
 	# About section
 	[params.about]
-		headline    = "一款可以养鸡的学习管理软件"
-		description = "[Miles](//google.com) 为小语种学习者提供一个个性化小语种学习分享交流平台。通过三个模块为小语种学习者提供一个学习监督激励、经验分享、学习问答平台，结合虚拟宠物系统，带来新颖的小语种学习体验。"
+		headline    = "Miles 与众不同"
+		description = """[Miles](//google.com) &nbsp;是一款可以养鸡的学习软件。它不仅仅是一个个性化小语种学习分享交流平台，也可以说是一个游戏软件。通过
+		在学习软件中融入游戏化因素，为小语种学习者提供一个学习监督激励、经验分享、学习问答平台，结合虚拟宠物系统，带来新颖的小语种学习体验。"""
 		buttonText  = "立即下载"
 
 
@@ -60,8 +62,8 @@ googleAnalytics = ""
 
         [[params.services.list]]
             icon = "fa-clock-o"
-            title = "番茄钟学习"
-            description = "当用户进行小语种学习时，可使用软件自带番茄钟为自己设立目标并进行计时，达到集中注意力的效果。"
+            title = "番茄钟学习法"
+            description = "番茄工作法极大地提高了工作的效率，还会有意想不到的成就感。"
 
         [[params.services.list]]
 			icon = "fa-group"
@@ -71,32 +73,32 @@ googleAnalytics = ""
 		[[params.services.list]]
             icon = "fa-comments"
             title = "多人情景学习"
-            description = "用户依据给定的剧本扮演自己的角色加入一个特定情境，使用小语种聊天的方式，将整个故事按照给定的剧本进行推进。"
+            description = "剧本杀模式，通过多人角色扮演，让用户声临其境地学习小语种。"
 
         [[params.services.list]]
             icon = "fa-tags"
-            title = "记录板块"
-            description = "每个用户可上传日常记录到该板块中，其他用户可以进行点赞、评论等。通过这种方式，鼓励其他用户进行学习。"
+            title = "学习记录板块"
+            description = "用户可以记录自己的学习动态，促进激励自己与他人的共同学习。"
 
         [[params.services.list]]
             icon = "fa-share-alt"
-            title = "分享板块"
-            description = "每个用户可上传自己整理的小语种学习资料，可设置公开或需要虚拟货币购买。为小语种用户提供学习资料分享。"
+            title = "资料分享板块"
+            description = "用户可以上传个人呢学习资料，与其他小语种学习者共享学习资料。"
 
         [[params.services.list]]
             icon = "fa-question"
-            title = "学习问答"
-            description = "每个用户可以在此模块提出有关小语种学习的任何问题，Miles通过奖励用户虚拟货币的方式，鼓励用户给出回答，交流分享经验。"
+            title = "学习问答板块"
+            description = "学习问答模块提供用户问答交流的平台，鼓励用户交流与分享经验。"
         
         [[params.services.list]]
             icon = "fa-bug"
-            title = "虚拟宠物成长系统"
-            description = "用户的学习时长，将转换成虚拟宠物走过的里程miles，作为软件的经验系统。"
+            title = "宠物成长系统"
+            description = "用户的学习时长将会转换成虚拟宠物走过的里程数，激励小语种学习者。"
         
         [[params.services.list]]
             icon = "fa-gift"
-            title = "虚拟宠物服饰系统"
-            description = "用户通过学习时长、分享经验、上传资料、回答问题等方式获得的虚拟货币可以为虚拟宠物购买装饰服饰。"
+            title = "宠物服饰系统"
+            description = "通过以上方式获得的虚拟货币可以为您的爱宠购买虚拟装饰服饰。"
     
     # Portfolio modals
 	[params.portfolio.modal]
@@ -107,7 +109,7 @@ googleAnalytics = ""
 
     # Aside section
 	[params.aside]
-		headline = "开始您小语种之旅，了解更多APP特色"
+		headline = "开始您小语种之旅，别错过Miles"
 
 		[params.aside.button]
 			text = "立即下载"
