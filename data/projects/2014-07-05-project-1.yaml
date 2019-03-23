@@ -1,8 +1,10 @@
 modalID: 1
-title: Project 1
-date: 2014-07-05
+title: Miles
+# date: 2014-07-05
 img: 1.jpg
-client: Start Bootstrap
+# client: Start Bootstrap
 clientLink: "#"
-category: Web Development
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeat tenetur cum tempore velit.
+category: What is miles ?
+description: 'Miles 是一款专为小语种设计的软件，为小语种学习者提供一个个
+性化小语种学习分享交流平台。通过三个模块为小语种学习者提供一个学习监督激励、
+经验与资料分享、学习问答以及虚拟宠物游戏系统相结合的APP,带来全新的小语种学习体验。'

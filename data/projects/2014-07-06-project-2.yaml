@@ -1,8 +1,11 @@
 modalID: 2
-title: Project 2
+title: Miles
 date: 2014-07-06
 img: 2.jpg
 client: Start Bootstrap
 clientLink: "#"
-category: Web Development
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim aliquid dicta ullam in repellendus amet perspiciatis adipisci architecto obcaecati sit voluptas ipsam, deleniti neque placeat tenetur cum tempore velit.
+category: Why is miles ?
+description: 'Miles针对当前小语种学习者因缺乏持久学习动力与兴趣,而现有应用和学习平台
+未能根据学习者学习目的而提供个性化且有效的多元学习模式，该项目为小语种学习者提供了一个
+定制化的学习交流平台,通过学习的自我及监督和他人监督、学习分享、学习问答等功能，融入游戏化
+概念、时间管理概念，利用从众效应和社会助长效应，从而激发小语种用户的学习兴趣。'
