@@ -110,8 +110,12 @@ googleAnalytics = ""
 	[params.aside]
 		headline = "开始您小语种之旅，别错过Miles"
 
-		[params.aside.button]
-			text = "立即下载"
+		[params.aside.button1]
+			text = "Android"
+			link = "//www.weekbin.xyz"
+
+		[params.aside.button2]
+			text = "ios"
 			link = "//www.weekbin.xyz"
 
 	# Contact section

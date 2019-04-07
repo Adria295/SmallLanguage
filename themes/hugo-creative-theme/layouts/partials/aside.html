@@ -3,8 +3,11 @@
     <div class="container text-center">
         <div class="call-to-action">
             {{ with .Site.Params.aside.headline }}<h2>{{ . }}</h2>{{ end }}
-            {{ if and .Site.Params.aside.button.link .Site.Params.aside.button.text }}
-                <a href="{{ .Site.Params.aside.button.link }}" class="btn btn-default btn-xl wow tada">{{ .Site.Params.aside.button.text }}</a>
+            {{ if and .Site.Params.aside.button1.link .Site.Params.aside.button1.text }}
+                <a href="{{ .Site.Params.aside.button1.link }}" class="btn btn-default btn-xl wow tada" style="width: 125px;margin-right: 60px;">{{ .Site.Params.aside.button1.text }}</a>
+            {{ end }}
+            {{ if and .Site.Params.aside.button2.link .Site.Params.aside.button2.text }}
+                <a href="{{ .Site.Params.aside.button2.link }}" class="btn btn-default btn-xl wow tada" style="width: 125px;">{{ .Site.Params.aside.button2.text }}</a>
             {{ end }}
         </div>
     </div>
