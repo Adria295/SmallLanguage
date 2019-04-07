@@ -29,7 +29,7 @@ googleAnalytics = ""
 
 	# Navigation
 	[params.navigation]
-		brand = "Miles | 小语种学习之旅"
+		brand = "M i l e s | 小 语 种 学 习 之 旅"
 
 		[params.navigation.links]
 			about     = "关于"
@@ -42,8 +42,7 @@ googleAnalytics = ""
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "Miles"
-		subtitle   = """[Miles](//google.com) &nbsp;是一款致力于解决当前小语种学习者易因缺乏持久学习动力与兴趣，专为小语种学习者设计了
-		一个定制化的学习交流交友平台，融合了时间管理、游戏化理念与社会助长效应的app。"""
+		subtitle   = """[一带一路](//zh.wikipedia.org/zh-hans/一带一路) &nbsp;下的小语种学习软件"""
 		buttonText = "了解更多"
 
 
@@ -70,15 +69,15 @@ googleAnalytics = ""
 			title = "多人监督学习"
 			description = "可随机匹配正在进行小语种学习的用户一起学习，互相监督督促。"
 
-		[[params.services.list]]
-            icon = "fa-comments"
-            title = "多人情景学习"
-            description = "剧本杀模式，通过多人角色扮演，让用户声临其境地学习小语种。"
+		# [[params.services.list]]
+        #     icon = "fa-comments"
+        #     title = "多人情景学习"
+        #     description = "剧本杀模式，通过多人角色扮演，让用户声临其境地学习小语种。"
 
-        [[params.services.list]]
-            icon = "fa-tags"
-            title = "学习记录板块"
-            description = "用户可以记录自己的学习动态，促进激励自己与他人的共同学习。"
+        # [[params.services.list]]
+        #     icon = "fa-tags"
+        #     title = "学习记录板块"
+        #     description = "用户可以记录自己的学习动态，促进激励自己与他人的共同学习。"
 
         [[params.services.list]]
             icon = "fa-share-alt"
@@ -90,15 +89,15 @@ googleAnalytics = ""
             title = "学习问答板块"
             description = "学习问答模块提供用户问答交流的平台，鼓励用户交流与分享经验。"
         
-        [[params.services.list]]
-            icon = "fa-bug"
-            title = "宠物成长系统"
-            description = "用户的学习时长将会转换成虚拟宠物走过的里程数，激励小语种学习者。"
+        # [[params.services.list]]
+        #     icon = "fa-bug"
+        #     title = "宠物成长系统"
+        #     description = "用户的学习时长将会转换成虚拟宠物走过的里程数，激励小语种学习者。"
         
-        [[params.services.list]]
-            icon = "fa-gift"
-            title = "宠物服饰系统"
-            description = "通过以上方式获得的虚拟货币可以为您的爱宠购买虚拟装饰服饰。"
+        # [[params.services.list]]
+        #     icon = "fa-gift"
+        #     title = "宠物服饰系统"
+        #     description = "通过以上方式获得的虚拟货币可以为您的爱宠购买虚拟装饰服饰。"
     
     # Portfolio modals
 	[params.portfolio.modal]
